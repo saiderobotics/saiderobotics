@@ -44,74 +44,10 @@
 
 ---
 
-## 📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saiderobotics&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiderobotics&layout=compact&theme=tokyonight" width="42%" />
-</p>
-
----
-
 ## 📊 **Activity Graph**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiderobotics&theme=tokyo-night" width="95%" />
-</p>
-
----
-
-## 🏆 **Trophies**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saiderobotics&theme=tokyonight&no-frame=true&row=2&column=4" width="80%" />
-</p>
-
----
-
-## 🚀 **Try It Now**
-
-```bash
-git clone https://github.com/saiderobotics/saiderobotics
-cd saiderobotics && pip install -r requirements.txt
-```
-
-```python
-from saiderobotics import SaideAI
-
-ai = SaideAI(
-    skills=['Data Science', 'Electronics', 'Robotics', 
-            'Mathematics', 'Physics', 'OSINT']
-)
-
-result = ai.collaborate("Analyze this physical system")
-print(result)
-```
-
----
-
-## 🌟 **Showcase**
-
-<p align="center">
-  <a href="https://colab.research.google.com/github/saiderobotics/saiderobotics">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
-  </a>
-  <a href="https://github.com/saiderobotics/saiderobotics/stargazers">
-    <img src="https://img.shields.io/github/stars/saiderobotics/saiderobotics?style=flat&color=yellow" />
-  </a>
-  <a href="https://github.com/saiderobotics/saiderobotics/forks">
-    <img src="https://img.shields.io/github/forks/saiderobotics/saiderobotics?style=flat&color=blue" />
-  </a>
-</p>
-
----
-
-## 🤝 **Connect**
-
-<p align="center">
-  <a href="https://twitter.com/SaideRobotics"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="https://discord.gg/saiderobotics"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
-  <a href="mailto:research@saiderobotics.io"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
