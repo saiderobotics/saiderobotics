@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Mathematics-FFD700?style=for-the-badge&logo=math&logoColor=black" />
   <img src="https://img.shields.io/badge/Physics-00BFFF?style=for-the-badge&logo=atom&logoColor=white" />
   <img src="https://img.shields.io/badge/OSINT-FF4500?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-4CAF50?style=for-the-badge&logo=chart&logoColor=white" />
 </p>
 
 ---
@@ -57,4 +58,3 @@
 <b>Where Data Science, Electronics, Robotics, Mathematics, Physics & OSINT unite
 </b>
 </p>
-
