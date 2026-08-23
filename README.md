@@ -1,4 +1,4 @@
-# 🤖 **SaideRobotics**
+# SaideRobotics
 
 <p align="center">
   <b>S A I D E R O B O T I C S</b><br>
@@ -7,18 +7,18 @@
 
 ---
 
-## 🎯 **Mission**
+## Mission
 
 <p align="center">
-  <b>🔍 Discovering patterns · 💡 Proposing hypotheses · ⚡ Accelerating simulations · 🧠 Understanding complex systems</b>
+  <b>Discovering patterns · Proposing hypotheses · Accelerating simulations · Understanding complex systems</b>
 </p>
 
 ---
 
-## 🧠 **My Skills**
+## Core Competencies
 
 <p align="center">
-  <b>📊 Data Science · 🔌 Electronics & Robotics · 📐 Mathematics · ⚛️ Physics · 🕵️ OSINT</b>
+  <b>Data Science · Electronics & Robotics · Mathematics · Physics · OSINT</b>
 </p>
 
 <p align="center">
@@ -32,19 +32,19 @@
 
 ---
 
-## 🛠️ **Core Capabilities**
+## Technical Expertise
 
 | | | |
 |:---:|:---:|:---:|
-| 📊 **Data Science** | 🔌 **Electronics & Robotics** | 📐 **Mathematics** |
-| ML · DL · Analytics | Circuits · Sensors · Actuators | Calculus · Linear Algebra |
+| **Data Science** | **Electronics & Robotics** | **Mathematics** |
+| Machine Learning · Deep Learning · Analytics | Circuits · Sensors · Actuators | Calculus · Linear Algebra · Statistics |
 | | | |
-| ⚛️ **Physics** | 🕵️ **OSINT** | 🧠 **AI Integration** |
-| Mechanics · Quantum · EM | Intel · Research · Discovery | PINNs · RL · Computer Vision |
+| **Physics** | **OSINT** | **AI Integration** |
+| Mechanics · Quantum · Electromagnetism | Intelligence · Research · Discovery | PINNs · Reinforcement Learning · Computer Vision |
 
 ---
 
-## 📊 **Activity Graph**
+## Activity Overview
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiderobotics&theme=tokyo-night" width="95%" />
@@ -53,7 +53,7 @@
 ---
 
 <p align="center">
-  <b>⭐ Star to support the vision! 🚀 Let's discover together! ❤️ Open source for science</b>
+  <b>Star to support the vision. Let's discover together. Open source for science.</b>
 </p>
 
 ---
@@ -64,6 +64,6 @@
 
 ---
 
-**MIT** © SaideRobotics
+MIT © SaideRobotics
 
-*"Where Data Science, Electronics, Robotics, Mathematics, Physics & OSINT unite"* 🌍
+*Where Data Science, Electronics, Robotics, Mathematics, Physics & OSINT unite*
