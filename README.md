@@ -1,5 +1,3 @@
-# SaideRobotics
-
 <p align="center">
   <b>S A I D E R O B O T I C S</b><br>
   <i>Developing AI that collaborates with physicists, engineers & roboticists</i>
