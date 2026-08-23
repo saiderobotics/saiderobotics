@@ -1,6 +1,6 @@
 <p align="center">
   <b>S A I D E R O B O T I C S</b><br>
-  <i>Aspiring Research Scientist | Physics, Mathematics, Data Science, Electronics & Robotics</i>
+  <i>Aspiring Research Scientist | Physics, Mathematics, Data Science, Electronics & Robotics, Statistics</i>
 </p>
 
 ---
