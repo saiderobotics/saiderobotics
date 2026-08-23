@@ -5,15 +5,11 @@
 
 ---
 
-## Mission
-
 <p align="center">
   <b>Discovering patterns · Proposing hypotheses · Accelerating simulations · Understanding complex systems</b>
 </p>
 
 ---
-
-## Core Competencies
 
 <p align="center">
   <b>Data Science · Electronics & Robotics · Mathematics · Physics · OSINT</b>
@@ -30,8 +26,6 @@
 
 ---
 
-## Technical Expertise
-
 | | | |
 |:---:|:---:|:---:|
 | **Data Science** | **Electronics & Robotics** | **Mathematics** |
@@ -41,8 +35,6 @@
 | Mechanics · Quantum · Electromagnetism | Intelligence · Research · Discovery | PINNs · Reinforcement Learning · Computer Vision |
 
 ---
-
-## Activity Overview
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiderobotics&theme=tokyo-night" width="95%" />
@@ -61,7 +53,5 @@
 </p>
 
 ---
-
-MIT © SaideRobotics
 
 *Where Data Science, Electronics, Robotics, Mathematics, Physics & OSINT unite*
