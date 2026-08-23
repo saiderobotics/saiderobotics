@@ -1,11 +1,8 @@
 # 🤖 **SaideRobotics**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Welcome+to+SaideRobotics;AI+for+Physicists+%26+Engineers;Building+Intelligent+Collaborators" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <b>S A I D E R O B O T I C S</b> — Developing AI that collaborates with physicists, engineers & roboticists
+  <b>S A I D E R O B O T I C S</b><br>
+  <i>Developing AI that collaborates with physicists, engineers & roboticists</i>
 </p>
 
 ---
@@ -47,20 +44,49 @@
 
 ---
 
-## 📈 **Current Focus**
+## 📈 **GitHub Stats**
 
 <p align="center">
-  <b>🧠 AI for Physics Discovery · 🔌 Intelligent Robotics Systems · 📊 Data-Driven Research · 🕵️ OSINT for Scientific Discovery</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=saiderobotics&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiderobotics&layout=compact&theme=tokyonight" width="42%" />
 </p>
 
 ---
 
-## 📊 **GitHub Activity**
+## 📊 **Activity Graph**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saiderobotics&show_icons=true&theme=tokyonight" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiderobotics&layout=compact&theme=tokyonight" width="350" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiderobotics&theme=tokyo-night" width="95%" />
 </p>
+
+---
+
+## 🏆 **Trophies**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saiderobotics&theme=tokyonight&no-frame=true&row=2&column=4" width="80%" />
+</p>
+
+---
+
+## 🚀 **Try It Now**
+
+```bash
+git clone https://github.com/saiderobotics/saiderobotics
+cd saiderobotics && pip install -r requirements.txt
+```
+
+```python
+from saiderobotics import SaideAI
+
+ai = SaideAI(
+    skills=['Data Science', 'Electronics', 'Robotics', 
+            'Mathematics', 'Physics', 'OSINT']
+)
+
+result = ai.collaborate("Analyze this physical system")
+print(result)
+```
 
 ---
 
@@ -86,7 +112,6 @@
   <a href="https://twitter.com/SaideRobotics"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
   <a href="https://discord.gg/saiderobotics"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
   <a href="mailto:research@saiderobotics.io"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://youtube.com/@saiderobotics"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
@@ -95,8 +120,10 @@
   <b>⭐ Star to support the vision! 🚀 Let's discover together! ❤️ Open source for science</b>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=80&section=footer" />
 </p>
 
 ---
