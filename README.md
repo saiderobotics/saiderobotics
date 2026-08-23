@@ -1,6 +1,6 @@
 <p align="center">
-  <h1 align="center">S A I D E R O B O T I C S</h1><br>
-  <i align="center">Developing AI that collaborates with physicists, engineers & roboticists</i>
+  <b>S A I D E R O B O T I C S</b><br>
+  <i>Developing AI that collaborates with physicists, engineers & roboticists</i>
 </p>
 
 ---
