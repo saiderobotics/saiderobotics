@@ -54,7 +54,7 @@
 
 ---
 <p align="center">
-*Where Data Science, Electronics, Robotics, Mathematics, Physics & OSINT unite*
+** Where Data Science, Electronics, Robotics, Mathematics, Physics & OSINT unite **
 
 </p>
 
