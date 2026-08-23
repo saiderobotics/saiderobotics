@@ -13,7 +13,7 @@
 ## 🎯 **Mission**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=700&lines=🔍+Discovering+patterns;💡+Proposing+hypotheses;⚡+Accelerating+simulations;🧠+Understanding+complex+systems" />
+  <b>🔍 Discovering patterns · 💡 Proposing hypotheses · ⚡ Accelerating simulations · 🧠 Understanding complex systems</b>
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ## 🧠 **My Skills**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=500&color=00FF88&center=true&vCenter=true&width=700&lines=📊+Data+Science;🔌+Electronics+%26+Robotics;📐+Mathematics;⚛️+Physics;🕵️+OSINT" />
+  <b>📊 Data Science · 🔌 Electronics & Robotics · 📐 Mathematics · ⚛️ Physics · 🕵️ OSINT</b>
 </p>
 
 <p align="center">
@@ -50,21 +50,49 @@
 ## 📈 **Current Focus**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=400&color=00FF88&center=true&vCenter=true&width=600&lines=🧠+AI+for+Physics+Discovery;🔌+Intelligent+Robotics+Systems;📊+Data-Driven+Research;🕵️+OSINT+for+Scientific+Discovery" />
+  <b>🧠 AI for Physics Discovery · 🔌 Intelligent Robotics Systems · 📊 Data-Driven Research · 🕵️ OSINT for Scientific Discovery</b>
 </p>
 
 ---
 
-## 📊 **Activity**
+## 📊 **GitHub Activity**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiderobotics&theme=tokyo-night" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saiderobotics&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiderobotics&layout=compact&theme=tokyonight" width="350" />
+</p>
+
+---
+
+## 🌟 **Showcase**
+
+<p align="center">
+  <a href="https://colab.research.google.com/github/saiderobotics/saiderobotics">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
+  </a>
+  <a href="https://github.com/saiderobotics/saiderobotics/stargazers">
+    <img src="https://img.shields.io/github/stars/saiderobotics/saiderobotics?style=flat&color=yellow" />
+  </a>
+  <a href="https://github.com/saiderobotics/saiderobotics/forks">
+    <img src="https://img.shields.io/github/forks/saiderobotics/saiderobotics?style=flat&color=blue" />
+  </a>
+</p>
+
+---
+
+## 🤝 **Connect**
+
+<p align="center">
+  <a href="https://twitter.com/SaideRobotics"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://discord.gg/saiderobotics"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
+  <a href="mailto:research@saiderobotics.io"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://youtube.com/@saiderobotics"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=300&color=FFD700&center=true&vCenter=true&width=500&lines=⭐+Star+to+support+the+vision!;🚀+Let's+discover+together!;❤️+Open+source+for+science" />
+  <b>⭐ Star to support the vision! 🚀 Let's discover together! ❤️ Open source for science</b>
 </p>
 
 <p align="center">
