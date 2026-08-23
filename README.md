@@ -1,5 +1,5 @@
 <p align="center">
-  <b><h1 align="center">S A I D E R O B O T I C S</h1></b><br>
+  <h1 align="center">S A I D E R O B O T I C S</h1>
   <i>Developing AI that collaborates with physicists, engineers & roboticists</i>
 </p>
 
