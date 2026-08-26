@@ -38,12 +38,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiderobotics&theme=tokyo-night" width="95%" />
-</p>
-
----
-
-<p align="center">
   <b>Star to support the vision. Let's discover together. Open source for science.</b>
 </p>
 
